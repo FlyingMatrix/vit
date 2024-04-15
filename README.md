@@ -1,4 +1,4 @@
-# An implementation of Vision Transformer (ViT) for image classification
+# A PyTorch implementation of Vision Transformer (ViT) for image classification
 A Vision Transformer (ViT) implementation for image classification
 
 Dataset: MNIST 
